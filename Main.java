@@ -10,6 +10,6 @@ public class Main {
         CpUI cpUI = new CpUI(dic);
 
         System.out.println(cpUI.input());
-
+        cpUI.grade();
     }
 }
